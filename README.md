@@ -32,3 +32,7 @@ GET	/usuarios	Obtiene todos los usuarios
 POST	/usuarios	Crea un nuevo usuario
 PUT	/usuarios/:id	Actualiza un usuario
 DELETE	/usuarios/:id	Elimina un usuario
+
+👤 Autor
+
+Wilson Andres Gomez Pantoja.
