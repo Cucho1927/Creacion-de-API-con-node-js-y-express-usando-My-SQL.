@@ -14,11 +14,6 @@ Incluye los métodos básicos **CRUD**: GET, POST, PUT y DELETE.
 ---
 
 ## 📦 Instalación
-
-1. Clonar el repositorio  
-   ```bash
-   git clone https://github.com/Cucho1927/Creacion-de-API-con-node-js-y-express-usando-My-SQL..git
-
 Instalar dependencias 
 npm install
 Configurar la conexión MySQL en el archivo correspondiente. 
@@ -33,6 +28,7 @@ POST	/usuarios	Crea un nuevo usuario
 PUT	/usuarios/:id	Actualiza un usuario
 DELETE	/usuarios/:id	Elimina un usuario
 
-👤 Autor
-
+👤 Autores 
 Wilson Andres Gomez Pantoja.
+Evan Sebastian Caicedo Martinez. 
+
